@@ -19,8 +19,8 @@
   "product_description": [
     "A guia para cachorros Brooklyn é mais uma estampa exclusiva da Zee.Dog. Com o nosso super gancho,  a Brooklyn traz todo o estilo da área mais descolada de Nova Iorque! As guias da Zee.Dog são realmente premium: tiras de poliéster macio, gancho super resistente (com trava nas guias P e G), design exclusivo e são confortáveis de passear."
   ],
-  "Atributos_Especiais": [
-    "<ul><li>Tira de poliéster estampada com tecnologia heat-transfer teteron.</li>\r\n<li>Borracha de caveira da Zee.Dog, feita de material atóxico.</li>\r\n<li>Textura macia e sedosa pra dar mais conforto nos passeios.</li>\r\n<li>Super gancho de liga de zinco com trava de enroscar nas guias P e G.</li>\r\n<li>Comprimento perfeito para absorver toda a força da puxada.</li>\r\n<li>Estampa exclusiva.</li></ul>"
+  "attributes": [
+    "Tira de poliéster estampada com tecnologia heat-transfer teteron", "Borracha de caveira da Zee.Dog, feita de material atóxico","Textura macia e sedosa pra dar mais conforto nos passeios","Super gancho de liga de zinco com trava de enroscar nas guias P e G","Comprimento perfeito para absorver toda a força da puxada","Estampa exclusiva"
   ],
   "description": "Guia para cachorros Brooklyn",
   "items": [ "pp", "p", "m", "g"]
